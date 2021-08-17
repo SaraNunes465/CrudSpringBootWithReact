@@ -28,7 +28,7 @@ java -jar target/Crud-0.0.1-SNAPSHOT.jar OU mvn spring-boot:run
 Para usar CRUD Back_end, siga estas etapas:
 
 ```
-<http://localhost:8080/cadastro>
+http://localhost:8080/cadastro
 ```
 
 
@@ -52,7 +52,7 @@ npm run start
 Para usar CRUD Front_End, siga estas etapas:
 
 ```
-<http://localhost:3000>
+http://localhost:3000
 ```
 
 ## Observação
@@ -64,6 +64,5 @@ FrontEnd/http-common.js
 
 baseURL: "https://aw-client-api.herokuapp.com" Troque por 
 baseURL: "http://localhost:8080"
-
 ```
 
