@@ -12,15 +12,15 @@ Para instalar o Back-End, siga estas etapas:
 
 Linux e macOS:
 ```
-<cd Crud/ && mvn clean install && mvn spring-boot:run > OU
-<cd Crud/ && mvn clean install && java -jar target/Crud-0.0.1-SNAPSHOT.jar >
+cd Crud/ && mvn clean install && mvn spring-boot:run  OU
+cd Crud/ && mvn clean install && java -jar target/Crud-0.0.1-SNAPSHOT.jar 
 ```
 
 Windows:
 ```
-<cd Crud/>
-<mvn clean install/>
-<java -jar target/Crud-0.0.1-SNAPSHOT.jar/> OU <mvn spring-boot:run/>
+cd Crud
+mvn clean install
+java -jar target/Crud-0.0.1-SNAPSHOT.jar OU mvn spring-boot:run
 
 ## ☕ Usando CRUD Back_end
 
