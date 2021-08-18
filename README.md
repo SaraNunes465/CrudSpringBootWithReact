@@ -3,9 +3,8 @@ Crud com Spring boot e react
 
 ## 💻 Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<JAVA 8 / MAVEN >`
-* Você tem uma máquina `<Windows / Linux / Mac>`.
+* Você instalou a versão mais recente de `JAVA 8 / MAVEN `
+* Você tem uma máquina `Windows / Linux / Mac`.
 * Você tem que possuir Node js Atualizados da versão 14 + 
 ## 🚀 Instalando CRUD Back_End
 
@@ -23,18 +22,18 @@ cd Crud
 mvn clean install
 java -jar target/Crud-0.0.1-SNAPSHOT.jar OU mvn spring-boot:run
 ```
-## ☕ Usando CRUD Back_end
+## ☕ Usando CRUD Back-End
 
-Para usar CRUD Back_end, siga estas etapas:
+Para usar CRUD Back-End, siga estas etapas:
 
 ```
 http://localhost:8080/cadastro
 ```
 
 
-## 🚀 Instalando CRUD Front_End
+## 🚀 Instalando CRUD Front-End
 
-Para instalar o Front_End, siga estas etapas:
+Para instalar o Front-End, siga estas etapas:
 
 Linux e macOS:
 ```
@@ -47,9 +46,9 @@ cd FrontEnd/
 npm install
 npm run start
 ```
-## ☕ Usando CRUD Front_End
+## ☕ Usando CRUD Front-End
 
-Para usar CRUD Front_End, siga estas etapas:
+Para usar CRUD Front-End, siga estas etapas:
 
 ```
 http://localhost:3000
